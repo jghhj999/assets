@@ -1,0 +1,13 @@
+{
+    "name": "Digger Finance",
+    "symbol": "DigFi",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "
+DigFi is a platform of DeFi products designed for ease-of-use, longevity, and scale. It is a comprehensive ecosystem governed by the DigFi token.",
+    "website": "https://diggerfinance.com",
+    "explorer": "https://explorer.binance.org/asset/DigFi-317F",
+    "research": "https://research.binance.com/en/projects/Digger Finance",
+    "status": "active",
+    "id": "DigFi-317F"
+}
